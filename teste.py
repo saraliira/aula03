@@ -1,4 +1,4 @@
-from calculadora import subitração
+from calculadora import soma
 
-assert subitração(2, 3) == 5
+assert soma(2, 3) == 5
 print("Teste executado com sucesso")
